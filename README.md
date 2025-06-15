@@ -1,3 +1,13 @@
+## 💫 About Me:
+Hi there 👋 I'm Arda — an IS/IT student that aims to build developer tools, AI-integrated apps, and tech that actually solves problems.
+
+- 🛠️ Currently working on: [`claw`](https://github.com/ardasaritas/claw) – a Homebrew toolchain for fast local builds.
+- 🎓 Studying IS/IT @ Bilkent University
+- 💡 Interests: AI agents, developer productivity, systems tools.
+- 🌍 Looking to collaborate on tools that empower indie devs or automate boring stuff.
+- 🧠 Fun fact: I like cats, A LOT. (a lot goes both for my affection and the number of cats, if i don't pet a cat two days consecutively i break down)
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saritasarda/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arda.saritas@ug.bilkent.edu.tr) 
