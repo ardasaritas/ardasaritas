@@ -1,10 +1,10 @@
 ## 💫 About Me:
-Hi there 👋 I'm Arda — an IS/IT student that aims to build developer tools, AI-integrated apps, and tech that actually solves problems.
+Hi there 👋 I'm Arda — an IS/IT student that aims to build developer tools, AI-integrated apps, and ultimately tech that actually solves problems.
 
 - 🛠️ Currently working on: [`claw`](https://github.com/ardasaritas/claw) – a Homebrew toolchain for fast local builds.
 - 🎓 Studying IS/IT @ Bilkent University
 - 💡 Interests: AI agents, developer productivity, systems tools.
-- 🌍 Looking to collaborate on tools that empower indie devs or automate boring stuff.
+- 🌍 Looking to collaborate on tools that solves problems, empower indie devs or automate boring stuff.
 - 🧠 Fun fact: I like cats, A LOT. (a lot goes both for my affection and the number of cats, if i don't pet a cat two days consecutively i break down)
 
 
