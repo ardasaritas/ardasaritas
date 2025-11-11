@@ -1,12 +1,9 @@
-## About Me:
+# About Me:
 Hi there, I'm Arda — an IS/IT student that aims to build tech that solves problems and put a smile on people's faces.
 
 - Currently working on: [`claw`](https://github.com/ardasaritas/claw) – a Homebrew tool for initializing your C dev environment in VS Code with one command. 
 - Studying Information Systems and Technologies @ Bilkent University
 - Interests: Computer Science, Techology and Science that makes me go WOW, AI agents, Algorithms, Systems.
-  
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saritasarda/) [![Bilkent UG](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arda.saritas@ug.bilkent.edu.tr) 
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -38,3 +35,7 @@ Hi there, I'm Arda — an IS/IT student that aims to build tech that solves prob
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+  
+# Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saritasarda/) [![Bilkent UG](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arda.saritas@ug.bilkent.edu.tr) 
