@@ -1,5 +1,5 @@
 ## About Me:
-Hi there, I'm Arda — an IS/IT student that aims to build tech that solves problems and put a smile on people's faces.
+Hi, I'm Arda - an IST student that aims to build tech that solves problems and put a smile on people's faces.
 
 - Currently working on: [`claw`](https://github.com/ardasaritas/claw) – a Homebrew tool for initializing your C dev environment in VS Code with one command. 
 - Studying Information Systems and Technologies @ Bilkent University
