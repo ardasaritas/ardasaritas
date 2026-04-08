@@ -1,9 +1,8 @@
 ## About Me:
 Hi, I'm Arda. I like computers, coding, and currently trying to deepen my skills in computer science. 
 
-- Currently working on: [`claw`](https://github.com/ardasaritas/claw) – a Homebrew tool for initializing your C dev environment in VS Code with one command. 
 - Studying Information Systems and Technologies @ Bilkent University
-- Interests: Techology and science that makes me go WOW, AI agents, Algorithms, Systems.
+- Interests: Techology and science, AI agents, Algorithms, Systems.
 
 ## Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
