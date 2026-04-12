@@ -1,6 +1,6 @@
 ## About Me:
 Hi, I'm Arda. I’m interested in computers and coding, and I consistently work on improving my skills and deepening my understanding of computer science. \
-Curiosity is one of my strongest traits, and it drives how I learn and build. \
+Curiosity is one of my strongest traits, and it drives how I learn and build.
 
 - Studying Information Systems and Technologies @ Bilkent University
 - Interests: Techology and science, AI agents, Algorithms, Systems.
