@@ -1,5 +1,5 @@
 ## About Me:
-Hi, I'm Arda. I like computers, coding, and currently deepening my skills in computer science. 
+Hi, I'm Arda. I like computers, coding, and currently deepening my skills in computer science. <br> 
 Curiosity is one thing I know I truly have. 
 
 - Studying Information Systems and Technologies @ Bilkent University
