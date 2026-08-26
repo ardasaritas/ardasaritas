@@ -3,7 +3,7 @@ Hi, I'm Arda. I’m interested in computers and coding, and I consistently work 
 Curiosity is one of my strongest traits, and it drives how I learn and build.
 
 - Studying Information Systems and Technologies @ Bilkent University
-- Interests: Techology and science, AI agents, Algorithms, Systems.
+- Interests: Technology and science, AI agents, Algorithms, Systems.
 
 ## Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -40,4 +40,4 @@ Curiosity is one of my strongest traits, and it drives how I learn and build.
 
   
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saritasarda/) [![Bilkent UG](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arda.saritas@ug.bilkent.edu.tr) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saritasarda/) [![Bilkent UG](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arda.saritas@ug.bilkent.edu.tr) 
